@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/github.io/react_article/static/js/main.89496ddd.chunk.js",
-    "main.js.map": "/github.io/react_article/static/js/main.89496ddd.chunk.js.map",
+    "main.js": "/github.io/react_article/static/js/main.7b4cdff7.chunk.js",
+    "main.js.map": "/github.io/react_article/static/js/main.7b4cdff7.chunk.js.map",
     "runtime-main.js": "/github.io/react_article/static/js/runtime-main.eb713a77.js",
     "runtime-main.js.map": "/github.io/react_article/static/js/runtime-main.eb713a77.js.map",
     "static/js/2.433df800.chunk.js": "/github.io/react_article/static/js/2.433df800.chunk.js",
     "static/js/2.433df800.chunk.js.map": "/github.io/react_article/static/js/2.433df800.chunk.js.map",
     "index.html": "/github.io/react_article/index.html",
-    "precache-manifest.79064e31b7df2c757bc040f427849269.js": "/github.io/react_article/precache-manifest.79064e31b7df2c757bc040f427849269.js",
+    "precache-manifest.b351ff600f137e7792812d9ea80a8d28.js": "/github.io/react_article/precache-manifest.b351ff600f137e7792812d9ea80a8d28.js",
     "service-worker.js": "/github.io/react_article/service-worker.js",
     "static/js/2.433df800.chunk.js.LICENSE.txt": "/github.io/react_article/static/js/2.433df800.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb713a77.js",
     "static/js/2.433df800.chunk.js",
-    "static/js/main.89496ddd.chunk.js"
+    "static/js/main.7b4cdff7.chunk.js"
   ]
 }
